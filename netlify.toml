@@ -1,0 +1,17 @@
+[images]
+  remote_images = [
+    "https://ext.same-assets.com/1485607787/*.png"
+  ]
+
+[build]
+  command = "bun run build"
+  publish = "dist"
+
+[dev]
+  command = "bun run dev"
+  port = 5173
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

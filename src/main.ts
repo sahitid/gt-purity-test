@@ -1,7 +1,6 @@
 // Questions array
 const questions = [
   'Pulled an all-nighter in PG',
-  'Cried on Skiles',
   'Eaten a sad Chick-fil-A alone in the Student Center',
   'Waited in line at Chick-fil-A in the Student Center for over 20 minutes?',
   'Procrastinated ‘cause you found code on GitHub, then realized it’s the wrong assignment',

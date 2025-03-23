@@ -9,8 +9,8 @@ body {
   background-color: #faebc4;
   color: #302616;
   background-image: url('yellowjacket.png');
-  background-repeat: repeat;
-  background-size: 50px;
+  background-repeat: space;
+  background-size: 100px;
   background-opacity: 0.1;
   line-height: 1.6;
 }

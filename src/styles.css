@@ -8,7 +8,7 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: #faebc4;
   color: #302616;
-  background-image: url('src/yellowjacket.png');
+  background-image: url('yellowjacket.png');
   background-repeat: repeat;
   background-size: 50px;
   background-opacity: 0.1;

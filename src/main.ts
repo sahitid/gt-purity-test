@@ -67,7 +67,7 @@ const questions = [
   'Slept through a final',
   'Had your laptop die mid-exam',
   'Had a squirrel steal your snack',
-  'Found the Mickey Mouse clock on campus",
+  'Found the Mickey Mouse clock on campus',
   'Ranted about parking prices',
   'Got rejected from a TA position',
   'Wondered who George P. Burdell actually is',
